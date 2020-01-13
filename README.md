@@ -3,4 +3,5 @@
 2. Output dat file is - OutputEmployee.dat
 3. Duplicate dat file is - DuplicateEmployee.dat
 
--> 2 and 3 files are created under \RecordMaintenanceSystem\. .
+-> file 1 is provided by the user.
+-> files 2 and 3 are created dynamically after execution
